@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\QQ\\yandex55\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\QQ\\yandex55\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\QQ\\yandex55\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\element_of_crypto.xml",
+        "source": "D:\\QQ\\yandex55\\app\\src\\main\\res\\layout\\element_of_crypto.xml"
+    },
+    {
+        "merged": "D:\\QQ\\yandex55\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_stock_fragment.xml",
+        "source": "D:\\QQ\\yandex55\\app\\src\\main\\res\\layout\\list_stock_fragment.xml"
+    },
+    {
+        "merged": "D:\\QQ\\yandex55\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\element_of_list_stock.xml",
+        "source": "D:\\QQ\\yandex55\\app\\src\\main\\res\\layout\\element_of_list_stock.xml"
+    },
+    {
+        "merged": "D:\\QQ\\yandex55\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\crypto_list.xml",
+        "source": "D:\\QQ\\yandex55\\app\\src\\main\\res\\layout\\crypto_list.xml"
+    },
+    {
+        "merged": "D:\\QQ\\yandex55\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_stocks_profile.xml",
+        "source": "D:\\QQ\\yandex55\\app\\src\\main\\res\\layout\\activity_stocks_profile.xml"
+    },
+    {
+        "merged": "D:\\QQ\\yandex55\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\company_fragment_1.xml",
+        "source": "D:\\QQ\\yandex55\\app\\src\\main\\res\\layout\\company_fragment_1.xml"
+    },
+    {
+        "merged": "D:\\QQ\\yandex55\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\element_of_news.xml",
+        "source": "D:\\QQ\\yandex55\\app\\src\\main\\res\\layout\\element_of_news.xml"
+    },
+    {
+        "merged": "D:\\QQ\\yandex55\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\element_of_trends_2.xml",
+        "source": "D:\\QQ\\yandex55\\app\\src\\main\\res\\layout\\element_of_trends_2.xml"
+    },
+    {
+        "merged": "D:\\QQ\\yandex55\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\element_of_lits_favourite.xml",
+        "source": "D:\\QQ\\yandex55\\app\\src\\main\\res\\layout\\element_of_lits_favourite.xml"
+    },
+    {
+        "merged": "D:\\QQ\\yandex55\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_of_trends.xml",
+        "source": "D:\\QQ\\yandex55\\app\\src\\main\\res\\layout\\list_of_trends.xml"
+    },
+    {
+        "merged": "D:\\QQ\\yandex55\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\crypto_charts.xml",
+        "source": "D:\\QQ\\yandex55\\app\\src\\main\\res\\layout\\crypto_charts.xml"
+    },
+    {
+        "merged": "D:\\QQ\\yandex55\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_news_4.xml",
+        "source": "D:\\QQ\\yandex55\\app\\src\\main\\res\\layout\\fragment_news_4.xml"
+    },
+    {
+        "merged": "D:\\QQ\\yandex55\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\favourite_fragment.xml",
+        "source": "D:\\QQ\\yandex55\\app\\src\\main\\res\\layout\\favourite_fragment.xml"
+    }
+]

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56099400387",
+    "project_id": "yandex2-8be3e",
+    "storage_bucket": "yandex2-8be3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56099400387:android:c9e21979163ad7228d5076",
+        "android_client_info": {
+          "package_name": "com.sergek.yandex2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56099400387-p3hvtg7gaakg6j2gd9too0058deem32c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ8bTZL5-DOQ19ln5CL6GWspZ-iGSnZWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56099400387-p3hvtg7gaakg6j2gd9too0058deem32c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+com/sergek/yandex2/databinding/ListStockFragmentBinding.java
+ com.sergek.yandex2.databinding.ListStockFragmentBinding
+com/sergek/yandex2/databinding/CryptoChartsBinding.java
+ com.sergek.yandex2.databinding.CryptoChartsBinding
+com/sergek/yandex2/BuildConfig.java
+ com.sergek.yandex2.BuildConfig
+com/sergek/yandex2/databinding/CompanyFragment1Binding.java
+ com.sergek.yandex2.databinding.CompanyFragment1Binding
+com/sergek/yandex2/databinding/ElementOfTrends2Binding.java
+ com.sergek.yandex2.databinding.ElementOfTrends2Binding
+com/sergek/yandex2/databinding/ActivityStocksProfileBinding.java
+ com.sergek.yandex2.databinding.ActivityStocksProfileBinding
+com/sergek/yandex2/databinding/ElementOfCryptoBinding.java
+ com.sergek.yandex2.databinding.ElementOfCryptoBinding
+com/sergek/yandex2/databinding/ElementOfNewsBinding.java
+ com.sergek.yandex2.databinding.ElementOfNewsBinding
+com/sergek/yandex2/databinding/ActivityMainBinding.java
+ com.sergek.yandex2.databinding.ActivityMainBinding
+com/sergek/yandex2/databinding/ElementOfListStockBinding.java
+ com.sergek.yandex2.databinding.ElementOfListStockBinding
+com/sergek/yandex2/databinding/FavouriteFragmentBinding.java
+ com.sergek.yandex2.databinding.FavouriteFragmentBinding
+com/sergek/yandex2/databinding/ElementOfLitsFavouriteBinding.java
+ com.sergek.yandex2.databinding.ElementOfLitsFavouriteBinding
+com/sergek/yandex2/databinding/CryptoListBinding.java
+ com.sergek.yandex2.databinding.CryptoListBinding
+com/sergek/yandex2/databinding/FragmentNews4Binding.java
+ com.sergek.yandex2.databinding.FragmentNews4Binding
+com/sergek/yandex2/databinding/ListOfTrendsBinding.java
+ com.sergek.yandex2.databinding.ListOfTrendsBinding

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/click_of_news"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:background="@android:color/background_light"
+    android:gravity="center"
+    android:onClick="poih">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+<!--        <TextView-->
+<!--            android:layout_width="150dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_gravity="center_horizontal"-->
+<!--            android:fontFamily="@font/cousine_bold"-->
+<!--            android:text="Title"-->
+<!--            android:textAlignment="center"-->
+<!--            android:textColor="@android:color/black"-->
+<!--            android:textSize="18dp"-->
+<!--            android:textStyle="bold" />-->
+
+        <TextView
+            android:id="@+id/headline_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/cousine_bold"
+            android:text="title"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:textSize="15dp" />
+
+        <ImageView
+            android:id="@+id/imgane_news"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </ImageView>
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:fontFamily="@font/cousine_bold"
+            android:text="Source"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/surce_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/cousine"
+            android:text="Source"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:textSize="15dp" />
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:fontFamily="@font/cousine_bold"
+            android:text="Up-to-date:"
+            android:textAlignment="textStart"
+            android:textColor="@android:color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/datatime_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:fontFamily="@font/cousine"
+            android:text="data"
+            android:textAlignment="viewStart"
+            android:textColor="@android:color/black"
+            android:textSize="15dp" />
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:fontFamily="@font/cousine_bold"
+            android:text="Category:"
+            android:textAlignment="textStart"
+            android:textColor="@android:color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/categoty_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:fontFamily="@font/cousine"
+            android:text="From"
+            android:textAlignment="viewStart"
+            android:textColor="@android:color/black"
+            android:textSize="15dp" />
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:fontFamily="@font/cousine_bold"
+            android:text="Summary:"
+            android:textAlignment="textStart"
+            android:textColor="@android:color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/id_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:fontFamily="@font/cousine"
+            android:text="summary"
+            android:textAlignment="viewStart"
+            android:textColor="@android:color/black"
+            android:textSize="15dp" />
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:fontFamily="@font/cousine_bold"
+            android:text="Image from:"
+            android:textAlignment="textStart"
+            android:textColor="@android:color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/image_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:fontFamily="@font/cousine"
+            android:text="From"
+            android:textAlignment="viewStart"
+            android:textColor="@android:color/black"
+            android:textSize="15dp" />
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start"
+            android:fontFamily="@font/cousine_bold"
+            android:textAlignment="textStart"
+            android:textColor="@android:color/black"
+            android:textSize="18dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/relaited_text"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_gravity="start"
+            android:text="Relaited"
+            android:textAlignment="viewStart"
+            android:textColor="@android:color/black"
+            android:textSize="15dp" />
+    </LinearLayout>
+</RelativeLayout>
